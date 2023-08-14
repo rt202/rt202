@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ronak Thakker
-- 👀 I’m interested in Data Science and Sports Analytics
-- 🌱 I’m currently learning Python and data analysis
-- 📫 You can reach me at epicrot@gmail.com
+- 👋 Hi, I’m Ronak Thakker. Studying Data Science and Statistics at Purdue University.
+- 👀 I am looking for a full time Data Science position upon graduating in Spring 2024
+- 🌱 I’m currently learning deeper Machine Learning packages such as TensorFlow and PyTorch
+- 📫 You can reach me at rthakk@outlook.com
